@@ -30,12 +30,12 @@ https://tmdbmoviesapp123.netlify.app/
 ## Questions that are mentioned in the pdf
      
 ### List elements from the challenge that you think you have done well, and that exemplify your proficiency. Please describe why you chose those elements, and how they demonstrate your proficiency.
-ans.  I have faced a challenge while doing the Search bar and similar movies in the movie details page.
+Ans.  I have faced a challenge while doing the Search bar and similar movies in the movie details page.
       Before I developed the the search bar using a single API for getting movies and filtering movies, but in this app I worked with different APIs.
       While doing similar movies on the movie details page, post clicking on the movie in similar movies, it is not navigating to that page but updating URLs with corresponding movie IDs, so for that, I have taken a refresh button.
       After clicking on the movie in similar movies, we should click on refresh to get the corresponding movie details.
 
 ### List what you would do to improve your solution if you had 4 more hours available for this task. Describe why you would do those things.
-ans.  It took so many hours to get similar movies in a customized way compared to the whole app, but I think I can improve that.
+Ans.  It took so many hours to get similar movies in a customized way compared to the whole app, but I think I can improve that.
 
 
