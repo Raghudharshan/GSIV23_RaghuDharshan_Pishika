@@ -24,7 +24,7 @@ You need to set up node js and npm in the local machine.
 
 Add additional notes about how to deploy this on a live system
 
-I have deployed through Netlify and Provided the URL below
+I have deployed through Netlify and Provided the URL below    
 https://tmdbmoviesapp123.netlify.app/
 
 ## Questions that are mentioned in the pdf
