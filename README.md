@@ -20,8 +20,6 @@ You need to set up node js and npm in the local machine.
  2. Install node_modules using this command -->npm i
  3. Start the npm using this command -->npm start
 
-
-
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
@@ -31,7 +29,6 @@ https://tmdbmoviesapp123.netlify.app/
 
 ## Questions that are mentioned in the pdf
      
-
 ### List elements from the challenge that you think you have done well, and that exemplify your proficiency. Please describe why you chose those elements, and how they demonstrate your proficiency.
 ans.  I have faced a challenge while doing the Search bar and similar movies in the movie details page.
       Before I developed the the search bar using a single API for getting movies and filtering movies, but in this app I worked with different APIs.
