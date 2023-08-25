@@ -1,7 +1,7 @@
 .movie-item {
   list-style-type: none;
   margin-bottom: 48px;
-  width: 150px;
+  width: 145px;
   flex-grow: 0;
   flex-shrink: 1;
   margin-right: 20px;
@@ -42,7 +42,7 @@
   font-weight: 100;
   margin: 0px;
 }
-.title-rating{
+.title-rating {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -55,7 +55,6 @@
   border-radius: 3px;
   padding: 2px;
   width: 25px;
-
 }
 
 .rating {

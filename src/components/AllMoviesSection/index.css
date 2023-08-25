@@ -139,13 +139,13 @@
   height: 16px;
 }
 
-.previous{
+.previous {
   margin-right: 10px;
   font-family: 'Roboto';
   font-style: italic;
 }
 
-.next{
+.next {
   margin-left: 10px;
   font-family: 'Roboto';
   font-style: italic;

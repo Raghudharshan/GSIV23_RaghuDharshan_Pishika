@@ -5,7 +5,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
 }
 
 .movie-details-success-view {
@@ -20,7 +19,7 @@
   }
 }
 
-.details{
+.details {
   margin-top: 0px;
   padding-top: 0px;
 }
@@ -65,7 +64,7 @@
   margin-top: 24px;
   margin-bottom: 16px;
 }
-.details{
+.details {
   margin-bottom: 10px;
 }
 @media screen and (min-width: 768px) {
@@ -154,7 +153,6 @@
   margin: 0;
 }
 
-
 .rating-1 {
   color: #ffffff;
   font-family: 'Roboto';
@@ -169,30 +167,28 @@
   width: 12px;
   margin-bottom: 3px;
 }
-.rating-container-1{
+.rating-container-1 {
   height: 25px;
   display: flex;
   align-items: center;
   background-color: #3b82f6;
   border-radius: 3px;
   padding: 5px;
-  width: 40px; 
+  width: 40px;
   margin-right: 10px;
 }
 
-.productionNames{
+.productionNames {
   font-size: 10px;
   padding-bottom: none;
   margin-bottom: none;
 }
-.cast-heading{
+.cast-heading {
   font-size: 13px;
   font-weight: bold;
   padding-bottom: none;
   margin-bottom: none;
 }
-
-
 
 .button {
   color: #ffffff;
@@ -222,10 +218,8 @@
   }
 }
 
-.refresh{
-
+.refresh {
   margin-bottom: 0px;
-
 }
 
 .similar-movies-heading {
