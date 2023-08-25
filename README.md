@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things do you need to install the software and how to install them
 You need to set up node js and npm in the local machine.
  
-### Installing
+### Instructions about how to run and test your code.
 
  1. Clone the Repository 
  2. Install node_modules using this command -->npm i
@@ -30,8 +30,6 @@ I have deployed through Netlify and Provided the URL below
 https://tmdbmoviesapp123.netlify.app/
 
 ## Questions that are mentioned in the pdf
-
-### Instructions about how to run and test your code.
      
 
 ### List elements from the challenge that you think you have done well, and that exemplify your proficiency. Please describe why you chose those elements, and how they demonstrate your proficiency.
