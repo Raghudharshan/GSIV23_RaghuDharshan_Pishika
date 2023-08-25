@@ -128,6 +128,7 @@ class MovieItemDetails extends Component {
     } = movieData
     // console.log()
     // this.refresh()
+
     return (
       <div className="movie-details-success-view">
         <h1 className="details">Movie Details</h1>
@@ -193,14 +194,14 @@ class MovieItemDetails extends Component {
         <button
           type="button"
           className="button add-to-cart-btn refresh"
-          onClick={() => window.location.reload(false)}
+          onClick={() => this.getMovieData()}
         >
           Refresh
         </button>
         <div className="all-movies-container">
           <ul className="movies-list">
             {similarMoviesData.map(movie => (
-              <MovieCard movieData={movie} setId={this.setId} key={movie.id} />
+              <MovieCard movieData={movie} key={movie.id} />
             ))}
           </ul>
         </div>
